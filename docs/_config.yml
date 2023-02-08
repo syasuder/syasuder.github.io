@@ -29,7 +29,7 @@ github_username:  syasder
 domain: syasuder.github.io
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
